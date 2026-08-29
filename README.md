@@ -21,7 +21,13 @@ This profile is a growing record of the tools I use and the projects I create.
 ## Tools & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,git&amp;theme=light&amp;perline=6" alt="HTML, CSS, JavaScript, TypeScript, Python, and Git" />
+  <img src="https://img.shields.io/badge/HTML5-141413?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-141413?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-141413?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-141413?style=flat-square&amp;logo=jupyter&amp;logoColor=F37626" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
 </p>
 
 ## Contribution Journey
