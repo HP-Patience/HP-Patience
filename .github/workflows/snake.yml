@@ -16,6 +16,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Check out profile source
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,6 +26,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23D97757&color_dots=%23F0EEE6,%23E3DACC,%23D7B8A7,%23C98A70,%23D97757
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23F0EEE6&color_dots=%23262624,%234A3A34,%237A4C3E,%23B9654B,%23D97757
+
+      - name: Generate activity graph
+        run: node .github/scripts/generate-activity-graph.mjs dist/github-activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
