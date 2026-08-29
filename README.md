@@ -18,17 +18,10 @@ This profile is a growing record of the tools I use and the projects I create.
     <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api/top-langs/?username=HP-Patience&amp;layout=compact&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413" alt="HP-Patience's most used languages" />
   </a>
 </p>
-
 ## Tools & Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-141413?style=flat-square&amp;logo=html5&amp;logoColor=D97757" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-141413?style=flat-square&amp;logo=css3&amp;logoColor=D97757" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=D97757" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=D97757" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-141413?style=flat-square&amp;logo=python&amp;logoColor=D97757" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-141413?style=flat-square&amp;logo=jupyter&amp;logoColor=D97757" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=D97757" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,git&amp;theme=light&amp;perline=6" alt="HTML, CSS, JavaScript, TypeScript, Python, and Git" />
 </p>
 
 ## Contribution Journey
