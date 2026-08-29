@@ -46,7 +46,7 @@ This profile is a growing record of the tools I use and the projects I create.
 ## Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HP-Patience&amp;bg_color=F0EEE6&amp;color=141413&amp;line=D97757&amp;point=D97757&amp;area=true&amp;area_color=E3DACC&amp;hide_border=true" alt="Celyn's GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/HP-Patience/HP-Patience/output/github-activity-graph.svg?v=1" alt="Celyn's GitHub activity graph" />
 </p>
 
 <p align="center">
