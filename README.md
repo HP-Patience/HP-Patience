@@ -12,7 +12,7 @@ This profile is a growing record of the tools I use and the projects I create.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=HP-Patience&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757&amp;v=2" alt="HP-Patience's GitHub stats" />
+    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=HP-Patience&amp;show_icons=true&amp;commits_year=2026&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757&amp;v=3" alt="HP-Patience's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api/top-langs/?username=HP-Patience&amp;layout=compact&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;v=2" alt="HP-Patience's most used languages" />
