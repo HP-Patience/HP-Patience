@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <a href="./assets/readme/hero.svg">
+    <img src="./assets/readme/hero.gif" width="100%" alt="Hey,I'm Celyn. Welcome to my world!" />
+  </a>
+</p>
 
-<!--
-**HP-Patience/HP-Patience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi, I'm Celyn. I learn by building, experimenting, and sharing what I discover along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is a growing record of the tools I use and the projects I create.
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=HP-Patience&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757" alt="HP-Patience's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api/top-langs/?username=HP-Patience&amp;layout=compact&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413" alt="HP-Patience's most used languages" />
+  </a>
+</p>
+
+## Tools & Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-141413?style=flat-square&amp;logo=html5&amp;logoColor=D97757" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-141413?style=flat-square&amp;logo=css3&amp;logoColor=D97757" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=D97757" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=D97757" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-141413?style=flat-square&amp;logo=python&amp;logoColor=D97757" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-141413?style=flat-square&amp;logo=jupyter&amp;logoColor=D97757" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=D97757" alt="Git" />
+</p>
+
+## Contribution Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HP-Patience/HP-Patience/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HP-Patience/HP-Patience/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/HP-Patience/HP-Patience/output/github-contribution-grid-snake.svg" alt="Animated contribution graph showing Celyn's GitHub activity" />
+</picture>
