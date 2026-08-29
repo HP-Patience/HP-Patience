@@ -22,7 +22,7 @@ This profile is a growing record of the tools I use and the projects I create.
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-141413?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-141413?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-141413?style=flat-square&amp;logo=css&amp;logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-141413?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
