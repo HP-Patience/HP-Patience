@@ -18,6 +18,11 @@ This profile is a growing record of the tools I use and the projects I create.
     <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api/top-langs/?username=HP-Patience&amp;layout=compact&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413" alt="HP-Patience's most used languages" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HP-Patience&amp;hide_border=true&amp;background=F0EEE6&amp;ring=D97757&amp;fire=D97757&amp;currStreakLabel=D97757&amp;sideLabels=141413&amp;currStreakNum=141413&amp;sideNums=141413&amp;dates=6B625B" alt="Celyn's GitHub contribution streak" />
+</p>
+
 ## Tools & Languages
 
 <p align="center">
@@ -37,3 +42,13 @@ This profile is a growing record of the tools I use and the projects I create.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HP-Patience/HP-Patience/output/github-contribution-grid-snake.svg?v=1" />
   <img src="https://raw.githubusercontent.com/HP-Patience/HP-Patience/output/github-contribution-grid-snake.svg?v=1" alt="Animated contribution graph showing Celyn's GitHub activity" />
 </picture>
+
+## Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HP-Patience&amp;bg_color=F0EEE6&amp;color=141413&amp;line=D97757&amp;point=D97757&amp;area=true&amp;area_color=E3DACC&amp;hide_border=true" alt="Celyn's GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HP-Patience&amp;label=Profile%20views&amp;color=D97757&amp;style=flat-square" alt="Profile views" />
+</p>
