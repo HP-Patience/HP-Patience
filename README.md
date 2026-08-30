@@ -10,6 +10,50 @@ Hi, I'm Celyn. I learn by building, experimenting, and sharing what I discover a
 
 This profile is a growing record of the tools I use and the projects I create.
 
+## Featured Projects
+
+### MusiCue FM
+
+An LLM-powered, local-first music player that turns mood, context, and conversational requests into playback queues and gradual listening arcs.
+
+`TypeScript` · `Node.js` · `Express` · `WebSocket` · `SQLite` · `Electron`
+
+[Source code](https://github.com/HP-Patience/MusiCue)
+
+<p align="center">
+  <a href="https://github.com/HP-Patience/MusiCue">
+    <img src="https://raw.githubusercontent.com/HP-Patience/MusiCue/master/assets/readme/dj-request-demo.gif" width="82%" alt="MusiCue building and playing a music queue from a conversational request" />
+  </a>
+</p>
+
+### ContextVocab
+
+A context-driven vocabulary workspace that combines continuous stories, AI explanations, and SM-2 spaced repetition for long-term recall.
+
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `LLM`
+
+[Live demo](https://englishcontext.vercel.app) · [Source code](https://github.com/HP-Patience/English_Context)
+
+<p align="center">
+  <a href="https://englishcontext.vercel.app">
+    <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/screen-home.png" width="82%" alt="ContextVocab home screen with story courses, vocabulary groups, and review progress" />
+  </a>
+</p>
+
+### Firefly Hub
+
+A local content and publishing workspace for writing Markdown, previewing articles, managing publication state, and controlling source and build repositories.
+
+`Node.js` · `JavaScript` · `Markdown` · `KaTeX` · `Git`
+
+[Source code](https://github.com/HP-Patience/Firefly_Hub) · [Published blog](https://www.celyn-blog.xyz/)
+
+<p align="center">
+  <a href="https://github.com/HP-Patience/Firefly_Hub">
+    <img src="https://raw.githubusercontent.com/HP-Patience/Firefly_Hub/main/docs/images/homepage.png" width="82%" alt="Firefly Hub content dashboard showing article status and publishing actions" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=HP-Patience&amp;show_icons=true&amp;commits_year=2026&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757&amp;v=3" alt="HP-Patience's GitHub stats" />
