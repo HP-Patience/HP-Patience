@@ -76,11 +76,16 @@
 
 ### 01 · MusiCue FM
 
+<details>
+<summary>View project banner</summary>
+
 <p align="center">
   <a href="https://github.com/HP-Patience/MusiCue">
     <img src="https://raw.githubusercontent.com/HP-Patience/MusiCue/master/assets/readme/hero.svg" width="100%" alt="MusiCue FM project banner" />
   </a>
 </p>
+
+</details>
 
 An LLM-powered, local-first music player that turns mood, context, and conversational requests into playback queues and gradual listening arcs.
 
@@ -95,19 +100,29 @@ An LLM-powered, local-first music player that turns mood, context, and conversat
 
 [Source code](https://github.com/HP-Patience/MusiCue) · [Download v0.1.0](https://github.com/HP-Patience/MusiCue/releases/tag/v0.1.0)
 
+<details>
+<summary>View playback demo</summary>
+
 <p align="center">
   <a href="https://github.com/HP-Patience/MusiCue">
     <img src="https://raw.githubusercontent.com/HP-Patience/MusiCue/master/assets/readme/dj-request-demo.gif" width="82%" alt="MusiCue building and playing a music queue from a conversational request" />
   </a>
 </p>
 
+</details>
+
 ### 02 · ContextVocab
+
+<details>
+<summary>View project banner</summary>
 
 <p align="center">
   <a href="https://github.com/HP-Patience/English_Context">
     <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/hero.svg" width="100%" alt="ContextVocab project banner" />
   </a>
 </p>
+
+</details>
 
 A context-driven vocabulary workspace that combines continuous stories, AI explanations, and SM-2 spaced repetition for long-term recall.
 
@@ -120,19 +135,29 @@ A context-driven vocabulary workspace that combines continuous stories, AI expla
 
 [Live demo](https://englishcontext.vercel.app) · [Source code](https://github.com/HP-Patience/English_Context)
 
+<details>
+<summary>View learning interface</summary>
+
 <p align="center">
   <a href="https://englishcontext.vercel.app">
-    <img src="https://github.com/HP-Patience/English_Context/blob/master/assets/readme/screen-story.png" width="82%" alt="ContextVocab home screen with story courses, vocabulary groups, and review progress" />
+    <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/screen-story.png" width="82%" alt="ContextVocab story learning interface" />
   </a>
 </p>
 
+</details>
+
 ### 03 · Firefly Hub
+
+<details>
+<summary>View project banner</summary>
 
 <p align="center">
   <a href="https://github.com/HP-Patience/Firefly_Hub">
     <img src="https://raw.githubusercontent.com/HP-Patience/Firefly_Hub/main/assets/readme/hero.svg" width="100%" alt="Firefly Hub project banner" />
   </a>
 </p>
+
+</details>
 
 A local content and publishing workspace for writing Markdown, previewing articles, managing publication state, and controlling source and build repositories.
 
@@ -146,8 +171,13 @@ A local content and publishing workspace for writing Markdown, previewing articl
 
 [Source code](https://github.com/HP-Patience/Firefly_Hub) · [Published blog](https://www.celyn-blog.xyz/)
 
+<details>
+<summary>View content dashboard</summary>
+
 <p align="center">
   <a href="https://github.com/HP-Patience/Firefly_Hub">
     <img src="https://raw.githubusercontent.com/HP-Patience/Firefly_Hub/main/docs/images/homepage.png" width="82%" alt="Firefly Hub content dashboard showing article status and publishing actions" />
   </a>
 </p>
+
+</details>
