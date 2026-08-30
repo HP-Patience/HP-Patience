@@ -99,6 +99,12 @@
 
 ## Featured Projects
 
+| Project | What it does |
+| --- | --- |
+| [MusiCue FM](https://github.com/HP-Patience/MusiCue) · [v0.1.0](https://github.com/HP-Patience/MusiCue/releases/tag/v0.1.0) | Turns conversational requests, mood, and context into music queues and gradual listening arcs. |
+| [ContextVocab](https://github.com/HP-Patience/English_Context) · [Live demo](https://englishcontext.vercel.app) | Teaches vocabulary through continuous stories, AI explanations, and SM-2 spaced repetition. |
+| [Firefly Hub](https://github.com/HP-Patience/Firefly_Hub) · [Blog](https://www.celyn-blog.xyz/) | Provides a local workspace for Markdown writing, preview, publishing state, builds, and Git workflows. |
+
 ### 01 · MusiCue FM
 
 <p align="center">
