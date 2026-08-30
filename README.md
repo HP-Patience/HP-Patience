@@ -40,22 +40,43 @@
   <img src="https://streak-stats.demolab.com?user=HP-Patience&amp;hide_border=true&amp;background=F0EEE6&amp;ring=D97757&amp;fire=D97757&amp;currStreakLabel=D97757&amp;sideLabels=141413&amp;currStreakNum=141413&amp;sideNums=141413&amp;dates=6B625B" alt="Celyn's GitHub contribution streak" />
 </p>
 
-## Tools & Technologies
+## Tech Stack
 
-<p align="center">
+**Languages & Web**
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-141413?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-141413?style=flat-square&amp;logo=css&amp;logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-141413?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-141413?style=flat-square&amp;logo=jupyter&amp;logoColor=F37626" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+</p>
+
+**Runtime & Frameworks**
+
+<p>
   <img src="https://img.shields.io/badge/Node.js-141413?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-141413?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/Astro-141413?style=flat-square&amp;logo=astro&amp;logoColor=FF5D01" alt="Astro" />
+  <img src="https://img.shields.io/badge/Electron-141413?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
+</p>
+
+**Data & Notebooks**
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-141413?style=flat-square&amp;logo=jupyter&amp;logoColor=F37626" alt="Jupyter" />
   <img src="https://img.shields.io/badge/PostgreSQL-141413?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-141413?style=flat-square&amp;logo=sqlite&amp;logoColor=44A2D4" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Electron-141413?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
+</p>
+
+**Developer Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-141413?style=flat-square&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-141413?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-141413?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+  <img src="./assets/readme/badge-vscode.svg" alt="Visual Studio Code" />
 </p>
 
 ## Contribution Journey
