@@ -103,7 +103,7 @@ A context-driven vocabulary workspace that combines continuous stories, AI expla
 
 <p align="center">
   <a href="https://englishcontext.vercel.app">
-    <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/screen-home.png" width="82%" alt="ContextVocab home screen with story courses, vocabulary groups, and review progress" />
+    <img src="https://github.com/HP-Patience/English_Context/blob/master/assets/readme/screen-story.png" width="82%" alt="ContextVocab home screen with story courses, vocabulary groups, and review progress" />
   </a>
 </p>
 
