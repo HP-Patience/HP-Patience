@@ -45,37 +45,37 @@
 **Languages & Web**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-141413?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-141413?style=flat-square&amp;logo=css&amp;logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-141413?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-F0EEE6?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-F0EEE6?style=flat-square&amp;logo=css&amp;logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F0EEE6?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-F0EEE6?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-F0EEE6?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
 </p>
 
 **Runtime & Frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-141413?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-141413?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-141413?style=flat-square&amp;logo=astro&amp;logoColor=FF5D01" alt="Astro" />
-  <img src="https://img.shields.io/badge/Electron-141413?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
+  <img src="https://img.shields.io/badge/Node.js-F0EEE6?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-F0EEE6?style=flat-square&amp;logo=nextdotjs&amp;logoColor=000000" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-F0EEE6?style=flat-square&amp;logo=astro&amp;logoColor=FF5D01" alt="Astro" />
+  <img src="https://img.shields.io/badge/Electron-F0EEE6?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
 </p>
 
 **Data & Notebooks**
 
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-141413?style=flat-square&amp;logo=jupyter&amp;logoColor=F37626" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/PostgreSQL-141413?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-141413?style=flat-square&amp;logo=sqlite&amp;logoColor=44A2D4" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Jupyter-F0EEE6?style=flat-square&amp;logo=jupyter&amp;logoColor=F37626" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F0EEE6?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-F0EEE6?style=flat-square&amp;logo=sqlite&amp;logoColor=44A2D4" alt="SQLite" />
 </p>
 
 **Developer Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-141413?style=flat-square&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-141413?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-141413?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F0EEE6?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-F0EEE6?style=flat-square&amp;logo=github&amp;logoColor=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-F0EEE6?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-F0EEE6?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
   <img src="./assets/readme/badge-vscode.svg" alt="Visual Studio Code" />
 </p>
 
@@ -106,12 +106,12 @@
 An LLM-powered, local-first music player that turns mood, context, and conversational requests into playback queues and gradual listening arcs.
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-141413?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-141413?style=flat-square&amp;logo=express&amp;logoColor=FFFFFF" alt="Express" />
-  <img src="https://img.shields.io/badge/WebSocket-141413?style=flat-square&amp;logo=socketdotio&amp;logoColor=FFFFFF" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/SQLite-141413?style=flat-square&amp;logo=sqlite&amp;logoColor=44A2D4" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Electron-141413?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
+  <img src="https://img.shields.io/badge/TypeScript-F0EEE6?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-F0EEE6?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-F0EEE6?style=flat-square&amp;logo=express&amp;logoColor=000000" alt="Express" />
+  <img src="https://img.shields.io/badge/WebSocket-F0EEE6?style=flat-square&amp;logo=socketdotio&amp;logoColor=010101" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/SQLite-F0EEE6?style=flat-square&amp;logo=sqlite&amp;logoColor=44A2D4" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Electron-F0EEE6?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
 </p>
 
 [Source code](https://github.com/HP-Patience/MusiCue) · [Download v0.1.0](https://github.com/HP-Patience/MusiCue/releases/tag/v0.1.0)
@@ -138,10 +138,10 @@ An LLM-powered, local-first music player that turns mood, context, and conversat
 A context-driven vocabulary workspace that combines continuous stories, AI explanations, and SM-2 spaced repetition for long-term recall.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-141413?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-141413?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-141413?style=flat-square&amp;logo=prisma&amp;logoColor=FFFFFF" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Next.js-F0EEE6?style=flat-square&amp;logo=nextdotjs&amp;logoColor=000000" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-F0EEE6?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F0EEE6?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-F0EEE6?style=flat-square&amp;logo=prisma&amp;logoColor=2D3748" alt="Prisma" />
 </p>
 
 [Live demo](https://englishcontext.vercel.app) · [Source code](https://github.com/HP-Patience/English_Context)
@@ -168,11 +168,11 @@ A context-driven vocabulary workspace that combines continuous stories, AI expla
 A local content and publishing workspace for writing Markdown, previewing articles, managing publication state, and controlling source and build repositories.
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-141413?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Markdown-141413?style=flat-square&amp;logo=markdown&amp;logoColor=FFFFFF" alt="Markdown" />
-  <img src="https://img.shields.io/badge/KaTeX-141413?style=flat-square&amp;logo=latex&amp;logoColor=008080" alt="KaTeX" />
-  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Node.js-F0EEE6?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F0EEE6?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Markdown-F0EEE6?style=flat-square&amp;logo=markdown&amp;logoColor=000000" alt="Markdown" />
+  <img src="https://img.shields.io/badge/KaTeX-F0EEE6?style=flat-square&amp;logo=latex&amp;logoColor=008080" alt="KaTeX" />
+  <img src="https://img.shields.io/badge/Git-F0EEE6?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
 </p>
 
 [Source code](https://github.com/HP-Patience/Firefly_Hub) · [Published blog](https://www.celyn-blog.xyz/)
