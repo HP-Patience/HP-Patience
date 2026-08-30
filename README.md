@@ -4,6 +4,20 @@
   </a>
 </p>
 
+<div align="center">
+
+<h3>Celyn · AI Products × Learning Systems × Personal Tools</h3>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=D97757&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+AI-assisted+products+people+can+use;MusiCue+FM+%C2%B7+ContextVocab+%C2%B7+Firefly+Hub;TypeScript+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+local-first+systems;Writing+at+celyn-blog.xyz" alt="Celyn's projects and technical focus" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=HP-Patience&amp;color=D97757&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile views" />
+
+<p><i>I don't just explore what AI can do. I turn it into products people can use.</i></p>
+
+</div>
+
 ## About Me
 
 - Building **AI-assisted products** for music, learning, and personal publishing.
@@ -50,10 +64,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HP-Patience/HP-Patience/output/github-activity-graph.svg?v=1" alt="Celyn's GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HP-Patience&amp;label=Profile%20views&amp;color=D97757&amp;style=flat-square" alt="Profile views" />
 </p>
 
 ## Featured Projects
