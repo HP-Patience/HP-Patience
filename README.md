@@ -68,7 +68,7 @@ An LLM-powered, local-first music player that turns mood, context, and conversat
   <img src="https://img.shields.io/badge/Electron-141413?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
 </p>
 
-[Source code](https://github.com/HP-Patience/MusiCue)
+[Source code](https://github.com/HP-Patience/MusiCue) · [Download v0.1.0](https://github.com/HP-Patience/MusiCue/releases/tag/v0.1.0)
 
 <p align="center">
   <a href="https://github.com/HP-Patience/MusiCue">
