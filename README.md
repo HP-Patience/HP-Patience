@@ -6,9 +6,12 @@
 
 ## About Me
 
-Hi, I'm Celyn. I build AI-assisted tools for music, learning, and personal publishing.
-
-This profile documents the products I create, the systems behind them, and what I learn along the way.
+- Building **AI-assisted products** for music, learning, and personal publishing.
+- Creating **MusiCue FM**, **ContextVocab**, and **Firefly Hub**.
+- Working mainly with **TypeScript, Node.js, Python, Next.js, and local-first systems**.
+- Interested in **LLM workflows, contextual interfaces, learning systems, and developer tools**.
+- I care about turning AI capabilities into products that are practical, understandable, and pleasant to use.
+- Writing project notes and experiments at [Celyn's Blog](https://www.celyn-blog.xyz/).
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
