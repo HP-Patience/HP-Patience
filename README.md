@@ -27,6 +27,12 @@
 - I care about turning AI capabilities into products that are practical, understandable, and pleasant to use.
 - Writing project notes and experiments at [Celyn's Blog](https://www.celyn-blog.xyz/).
 
+## Right Now
+
+- 🎧 Refining [MusiCue FM](https://github.com/HP-Patience/MusiCue) after its [v0.1.0 release](https://github.com/HP-Patience/MusiCue/releases/tag/v0.1.0), with persistent taste memory and a faster desktop launcher next on the roadmap.
+- 📚 Expanding [ContextVocab](https://github.com/HP-Patience/English_Context) around continuous story learning, AI-generated context, and SM-2 spaced repetition.
+- ✍️ Improving [Firefly Hub](https://github.com/HP-Patience/Firefly_Hub) and publishing project notes and experiments on [Celyn's Blog](https://www.celyn-blog.xyz/).
+
 ## Tech Stack
 
 **Languages & Web**
