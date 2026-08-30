@@ -27,19 +27,6 @@
 - I care about turning AI capabilities into products that are practical, understandable, and pleasant to use.
 - Writing project notes and experiments at [Celyn's Blog](https://www.celyn-blog.xyz/).
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=HP-Patience&amp;show_icons=true&amp;commits_year=2026&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757&amp;v=3" alt="HP-Patience's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api/top-langs/?username=HP-Patience&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;v=3" alt="HP-Patience's most used languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HP-Patience&amp;hide_border=true&amp;background=F0EEE6&amp;ring=D97757&amp;fire=D97757&amp;currStreakLabel=D97757&amp;sideLabels=141413&amp;currStreakNum=141413&amp;sideNums=141413&amp;dates=6B625B" alt="Celyn's GitHub contribution streak" />
-</p>
-
 ## Tech Stack
 
 **Languages & Web**
@@ -77,6 +64,21 @@
   <img src="https://img.shields.io/badge/Docker-F0EEE6?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-F0EEE6?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
   <img src="./assets/readme/badge-vscode.svg" alt="Visual Studio Code" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=HP-Patience&amp;show_icons=true&amp;commits_year=2026&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757&amp;v=3" alt="HP-Patience's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api/top-langs/?username=HP-Patience&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;v=3" alt="HP-Patience's most used languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HP-Patience&amp;hide_border=true&amp;background=F0EEE6&amp;ring=D97757&amp;fire=D97757&amp;currStreakLabel=D97757&amp;sideLabels=141413&amp;currStreakNum=141413&amp;sideNums=141413&amp;dates=6B625B" alt="Celyn's GitHub contribution streak" />
 </p>
 
 ## Contribution Journey
