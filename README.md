@@ -55,7 +55,7 @@ This profile is a growing record of the tools I use and the projects I create.
 
 ## Featured Projects
 
-### MusiCue FM
+### 01 · MusiCue FM
 
 <p align="center">
   <a href="https://github.com/HP-Patience/MusiCue">
@@ -82,7 +82,7 @@ An LLM-powered, local-first music player that turns mood, context, and conversat
   </a>
 </p>
 
-### ContextVocab
+### 02 · ContextVocab
 
 <p align="center">
   <a href="https://github.com/HP-Patience/English_Context">
@@ -107,7 +107,7 @@ A context-driven vocabulary workspace that combines continuous stories, AI expla
   </a>
 </p>
 
-### Firefly Hub
+### 03 · Firefly Hub
 
 <p align="center">
   <a href="https://github.com/HP-Patience/Firefly_Hub">
