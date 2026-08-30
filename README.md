@@ -97,16 +97,11 @@
 
 ### 01 · MusiCue FM
 
-<details>
-<summary>View project banner</summary>
-
 <p align="center">
   <a href="https://github.com/HP-Patience/MusiCue">
     <img src="https://raw.githubusercontent.com/HP-Patience/MusiCue/master/assets/readme/hero.svg" width="100%" alt="MusiCue FM project banner" />
   </a>
 </p>
-
-</details>
 
 An LLM-powered, local-first music player that turns mood, context, and conversational requests into playback queues and gradual listening arcs.
 
@@ -134,16 +129,11 @@ An LLM-powered, local-first music player that turns mood, context, and conversat
 
 ### 02 · ContextVocab
 
-<details>
-<summary>View project banner</summary>
-
 <p align="center">
   <a href="https://github.com/HP-Patience/English_Context">
     <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/hero.svg" width="100%" alt="ContextVocab project banner" />
   </a>
 </p>
-
-</details>
 
 A context-driven vocabulary workspace that combines continuous stories, AI explanations, and SM-2 spaced repetition for long-term recall.
 
@@ -169,16 +159,11 @@ A context-driven vocabulary workspace that combines continuous stories, AI expla
 
 ### 03 · Firefly Hub
 
-<details>
-<summary>View project banner</summary>
-
 <p align="center">
   <a href="https://github.com/HP-Patience/Firefly_Hub">
     <img src="https://raw.githubusercontent.com/HP-Patience/Firefly_Hub/main/assets/readme/hero.svg" width="100%" alt="Firefly Hub project banner" />
   </a>
 </p>
-
-</details>
 
 A local content and publishing workspace for writing Markdown, previewing articles, managing publication state, and controlling source and build repositories.
 
