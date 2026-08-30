@@ -57,6 +57,12 @@ This profile is a growing record of the tools I use and the projects I create.
 
 ### MusiCue FM
 
+<p align="center">
+  <a href="https://github.com/HP-Patience/MusiCue">
+    <img src="https://raw.githubusercontent.com/HP-Patience/MusiCue/master/assets/readme/hero.svg" width="100%" alt="MusiCue FM project banner" />
+  </a>
+</p>
+
 An LLM-powered, local-first music player that turns mood, context, and conversational requests into playback queues and gradual listening arcs.
 
 <p>
@@ -78,6 +84,12 @@ An LLM-powered, local-first music player that turns mood, context, and conversat
 
 ### ContextVocab
 
+<p align="center">
+  <a href="https://github.com/HP-Patience/English_Context">
+    <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/hero.svg" width="100%" alt="ContextVocab project banner" />
+  </a>
+</p>
+
 A context-driven vocabulary workspace that combines continuous stories, AI explanations, and SM-2 spaced repetition for long-term recall.
 
 <p>
@@ -96,6 +108,12 @@ A context-driven vocabulary workspace that combines continuous stories, AI expla
 </p>
 
 ### Firefly Hub
+
+<p align="center">
+  <a href="https://github.com/HP-Patience/Firefly_Hub">
+    <img src="https://raw.githubusercontent.com/HP-Patience/Firefly_Hub/main/assets/readme/hero.svg" width="100%" alt="Firefly Hub project banner" />
+  </a>
+</p>
 
 A local content and publishing workspace for writing Markdown, previewing articles, managing publication state, and controlling source and build repositories.
 
