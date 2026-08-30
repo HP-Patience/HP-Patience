@@ -197,3 +197,17 @@ A local content and publishing workspace for writing Markdown, previewing articl
 </p>
 
 </details>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:chenrongwei647@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF" alt="Email" /></a>
+<a href="https://github.com/HP-Patience"><img src="https://img.shields.io/badge/GitHub-F0EEE6?style=for-the-badge&amp;logo=github&amp;logoColor=181717" alt="GitHub" /></a>
+<a href="https://www.celyn-blog.xyz/"><img src="https://img.shields.io/badge/Blog-D97757?style=for-the-badge&amp;logo=astro&amp;logoColor=FFFFFF" alt="Celyn's Blog" /></a>
+
+<p><i>Building useful products, one thoughtful system at a time.</i></p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F0EEE6,50:D97757,100:141413&amp;height=100&amp;section=footer" width="100%" alt="Anthropic-inspired footer wave" />
