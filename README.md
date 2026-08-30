@@ -44,6 +44,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-F0EEE6?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-F0EEE6?style=flat-square&amp;logo=nextdotjs&amp;logoColor=000000" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-F0EEE6?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Astro-F0EEE6?style=flat-square&amp;logo=astro&amp;logoColor=FF5D01" alt="Astro" />
   <img src="https://img.shields.io/badge/Electron-F0EEE6?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
 </p>
@@ -53,6 +54,7 @@
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F0EEE6?style=flat-square&amp;logo=jupyter&amp;logoColor=F37626" alt="Jupyter" />
   <img src="https://img.shields.io/badge/PostgreSQL-F0EEE6?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-F0EEE6?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-F0EEE6?style=flat-square&amp;logo=sqlite&amp;logoColor=44A2D4" alt="SQLite" />
 </p>
 
