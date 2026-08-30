@@ -10,50 +10,6 @@ Hi, I'm Celyn. I learn by building, experimenting, and sharing what I discover a
 
 This profile is a growing record of the tools I use and the projects I create.
 
-## Featured Projects
-
-### MusiCue FM
-
-An LLM-powered, local-first music player that turns mood, context, and conversational requests into playback queues and gradual listening arcs.
-
-`TypeScript` · `Node.js` · `Express` · `WebSocket` · `SQLite` · `Electron`
-
-[Source code](https://github.com/HP-Patience/MusiCue)
-
-<p align="center">
-  <a href="https://github.com/HP-Patience/MusiCue">
-    <img src="https://raw.githubusercontent.com/HP-Patience/MusiCue/master/assets/readme/dj-request-demo.gif" width="82%" alt="MusiCue building and playing a music queue from a conversational request" />
-  </a>
-</p>
-
-### ContextVocab
-
-A context-driven vocabulary workspace that combines continuous stories, AI explanations, and SM-2 spaced repetition for long-term recall.
-
-`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `LLM`
-
-[Live demo](https://englishcontext.vercel.app) · [Source code](https://github.com/HP-Patience/English_Context)
-
-<p align="center">
-  <a href="https://englishcontext.vercel.app">
-    <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/screen-home.png" width="82%" alt="ContextVocab home screen with story courses, vocabulary groups, and review progress" />
-  </a>
-</p>
-
-### Firefly Hub
-
-A local content and publishing workspace for writing Markdown, previewing articles, managing publication state, and controlling source and build repositories.
-
-`Node.js` · `JavaScript` · `Markdown` · `KaTeX` · `Git`
-
-[Source code](https://github.com/HP-Patience/Firefly_Hub) · [Published blog](https://www.celyn-blog.xyz/)
-
-<p align="center">
-  <a href="https://github.com/HP-Patience/Firefly_Hub">
-    <img src="https://raw.githubusercontent.com/HP-Patience/Firefly_Hub/main/docs/images/homepage.png" width="82%" alt="Firefly Hub content dashboard showing article status and publishing actions" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats-beta-two-42tmk9jpfh.vercel.app/api?username=HP-Patience&amp;show_icons=true&amp;commits_year=2026&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=F0EEE6&amp;title_color=D97757&amp;text_color=141413&amp;icon_color=D97757&amp;ring_color=D97757&amp;v=3" alt="HP-Patience's GitHub stats" />
@@ -95,4 +51,66 @@ A local content and publishing workspace for writing Markdown, previewing articl
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HP-Patience&amp;label=Profile%20views&amp;color=D97757&amp;style=flat-square" alt="Profile views" />
+</p>
+
+## Featured Projects
+
+### MusiCue FM
+
+An LLM-powered, local-first music player that turns mood, context, and conversational requests into playback queues and gradual listening arcs.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-141413?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-141413?style=flat-square&amp;logo=express&amp;logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/WebSocket-141413?style=flat-square&amp;logo=socketdotio&amp;logoColor=FFFFFF" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/SQLite-141413?style=flat-square&amp;logo=sqlite&amp;logoColor=44A2D4" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Electron-141413?style=flat-square&amp;logo=electron&amp;logoColor=47848F" alt="Electron" />
+</p>
+
+[Source code](https://github.com/HP-Patience/MusiCue)
+
+<p align="center">
+  <a href="https://github.com/HP-Patience/MusiCue">
+    <img src="https://raw.githubusercontent.com/HP-Patience/MusiCue/master/assets/readme/dj-request-demo.gif" width="82%" alt="MusiCue building and playing a music queue from a conversational request" />
+  </a>
+</p>
+
+### ContextVocab
+
+A context-driven vocabulary workspace that combines continuous stories, AI explanations, and SM-2 spaced repetition for long-term recall.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-141413?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-141413?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-141413?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-141413?style=flat-square&amp;logo=prisma&amp;logoColor=FFFFFF" alt="Prisma" />
+</p>
+
+[Live demo](https://englishcontext.vercel.app) · [Source code](https://github.com/HP-Patience/English_Context)
+
+<p align="center">
+  <a href="https://englishcontext.vercel.app">
+    <img src="https://raw.githubusercontent.com/HP-Patience/English_Context/master/assets/readme/screen-home.png" width="82%" alt="ContextVocab home screen with story courses, vocabulary groups, and review progress" />
+  </a>
+</p>
+
+### Firefly Hub
+
+A local content and publishing workspace for writing Markdown, previewing articles, managing publication state, and controlling source and build repositories.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-141413?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-141413?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Markdown-141413?style=flat-square&amp;logo=markdown&amp;logoColor=FFFFFF" alt="Markdown" />
+  <img src="https://img.shields.io/badge/KaTeX-141413?style=flat-square&amp;logo=latex&amp;logoColor=008080" alt="KaTeX" />
+  <img src="https://img.shields.io/badge/Git-141413?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+</p>
+
+[Source code](https://github.com/HP-Patience/Firefly_Hub) · [Published blog](https://www.celyn-blog.xyz/)
+
+<p align="center">
+  <a href="https://github.com/HP-Patience/Firefly_Hub">
+    <img src="https://raw.githubusercontent.com/HP-Patience/Firefly_Hub/main/docs/images/homepage.png" width="82%" alt="Firefly Hub content dashboard showing article status and publishing actions" />
+  </a>
 </p>
