@@ -6,9 +6,9 @@
 
 ## About Me
 
-Hi, I'm Celyn. I learn by building, experimenting, and sharing what I discover along the way.
+Hi, I'm Celyn. I build AI-assisted tools for music, learning, and personal publishing.
 
-This profile is a growing record of the tools I use and the projects I create.
+This profile documents the products I create, the systems behind them, and what I learn along the way.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
