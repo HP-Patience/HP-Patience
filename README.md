@@ -107,11 +107,43 @@
 
 | Project | What it does |
 | --- | --- |
+| [Video Parser](https://github.com/HP-Patience/video-parser) | Turns video links and local media into one local-first archive of downloads, subtitles, transcripts, AI analysis, and study notes. |
 | [MusiCue FM](https://github.com/HP-Patience/MusiCue) · [v0.1.0](https://github.com/HP-Patience/MusiCue/releases/tag/v0.1.0) | Turns conversational requests, mood, and context into music queues and gradual listening arcs. |
 | [ContextVocab](https://github.com/HP-Patience/English_Context) · [Live demo](https://englishcontext.vercel.app) | Teaches vocabulary through continuous stories, AI explanations, and SM-2 spaced repetition. |
 | [Firefly Hub](https://github.com/HP-Patience/Firefly_Hub) · [Blog](https://www.celyn-blog.xyz/) | Provides a local workspace for Markdown writing, preview, publishing state, builds, and Git workflows. |
 
-### 01 · MusiCue FM
+### 01 · Video Parser
+
+<p align="center">
+  <a href="https://github.com/HP-Patience/video-parser">
+    <img src="https://raw.githubusercontent.com/HP-Patience/video-parser/main/docs/assets/readme/hero.svg" width="100%" alt="Video Parser project banner" />
+  </a>
+</p>
+
+A local-first video workbench that downloads, transcribes, translates, and analyzes video material, then keeps the results in one archive organized by project and episode.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-F0EEE6?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-F0EEE6?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-F0EEE6?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-F0EEE6?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FFmpeg-F0EEE6?style=flat-square&amp;logo=ffmpeg&amp;logoColor=007808" alt="FFmpeg" />
+</p>
+
+[Source code](https://github.com/HP-Patience/video-parser)
+
+<details>
+<summary>View study workspace</summary>
+
+<p align="center">
+  <a href="https://github.com/HP-Patience/video-parser">
+    <img src="https://raw.githubusercontent.com/HP-Patience/video-parser/main/docs/assets/readme/learning.png" width="82%" alt="Video Parser study view with episode player, chapter timeline, learning notes, and study tools" />
+  </a>
+</p>
+
+</details>
+
+### 02 · MusiCue FM
 
 <p align="center">
   <a href="https://github.com/HP-Patience/MusiCue">
@@ -143,7 +175,7 @@ An LLM-powered, local-first music player that turns mood, context, and conversat
 
 </details>
 
-### 02 · ContextVocab
+### 03 · ContextVocab
 
 <p align="center">
   <a href="https://github.com/HP-Patience/English_Context">
@@ -173,7 +205,7 @@ A context-driven vocabulary workspace that combines continuous stories, AI expla
 
 </details>
 
-### 03 · Firefly Hub
+### 04 · Firefly Hub
 
 <p align="center">
   <a href="https://github.com/HP-Patience/Firefly_Hub">
